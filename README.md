@@ -31,7 +31,6 @@ $ git clone https://github.com/C4RL0M/DO-LIXO-AO-LUXO-
 
 # Entre no repositório
 $ cd portfolio_nextjs
-
 Instale as dependencias digitando no termimal:
 $ yarn install
 
