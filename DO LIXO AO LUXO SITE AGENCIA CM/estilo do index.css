@@ -1,0 +1,26 @@
+body{
+    background: #AAB0B5 url(imagens/agênciaCM.jpg);
+    font: 16px Arial, Helvetica, sans-serif;
+
+}
+
+#principal{
+    width: 1350PX;
+}
+
+#menu{
+    background: #EEEC00;
+    padding: 20px;
+    font-size: 18px Arial, #DEA800;
+}
+a{
+    color: #768591;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+#conteudo{
+    background: white;
+    font: black;
+    padding: 10px;
+}
