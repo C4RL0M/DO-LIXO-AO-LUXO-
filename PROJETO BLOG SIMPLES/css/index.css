@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+ body{
+     font-size: 1em;
+     font-family: sans-serif;
+     background-color: #e6e6e6;
+     margin-bottom: 20px;
+ }
+
+/***********
+***Layout***
+*/
+#area-cabecalho{
+    background-color: #7F7F7F;
+    padding: 20px;
+    text-align: center;
+}
+
+#area-logo, #area-menu{
+    padding: 10px;
+}
+
+#area-principal{
+    width: 920px;
+    margin: 0 auto;
+}
+
+#area-postagens, #area-lateral {
+    background-color: orange;
+}
+#area-postagens{
+    width: 660px;
+    float: left;
+}
+
+#area-lateral{
+    width: 240px;
+    float: right;
+}
+
+.postagem{
+    padding: 20px;
+    margin-bottom: 20px;
+    background: white;
+}
+
+#rodape{
+    clear:both;
+    text-align: center;
+    padding: 15px;
+    background: #ccc
+}
+/***********
+***Formatações do menu***
+*/
+a{
+  text-decoration: none;  
+}
+a:link a:visited{
+    color: cyan;
+    padding: 8px;
+} 
+
+a:hover{
+    color: #7F7F7F;
+    background: #FFF;
+
+}
+
+/***********
+***Formatações gerais***
+*/
+
+h1{
+    color: black;
+    font-size: 3.5em;
+}
+.branco{
+    color: white;
+}
+
+
+
+
+
+
+
+
